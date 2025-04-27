@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://alamak88999.github.oi/snek/weving.gif">, I'm Afdal</h1>
+<h1 align="center">Hi <img width="35" src="https://alamak88999.github.oi/snek/waving.gif">, I'm Afdal</h1>
 <h4 align="center">I am a student from Pontianak city<a</h4>
 </div>
 <div align="center">
