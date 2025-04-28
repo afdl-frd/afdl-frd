@@ -1,7 +1,10 @@
 <!--<div style="height:300px; overflow-y:scroll; border:1px solid #ccc; padding:10px;">-->
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img src="https://alamak88999.github.io/Snek/senku.gif" alt="snake"></a>
+  # Halo, Saya [Nama Anda]! 👋
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd5cW5wY3JtY2N2dGp0Y3R3b3R5eWxqY2R5b2Z5ZzV4Z3N6dGZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aTskHEUdgCQAXde/giphy.gif" width="300" alt="GIF Selamat Datang"/>
+
+Selamat datang di profil GitHub saya!
 </div>
 
 <div align="center">
