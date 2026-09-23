@@ -44,4 +44,6 @@
 <div align="center">
 <a href=""><img src="https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white"></a>
 <a href=""><img src="https://img.shields.io/badge/DeepSeek-%235786FE.svg?style=for-the-badge&logo=deepseek&logoColor=white"></a>
+<a href=""><img src="https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white"></a>
+
 </div>
