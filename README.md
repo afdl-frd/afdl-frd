@@ -36,3 +36,9 @@
 <a href="https://www.instagram.com/_rahulmahesh62_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white"></a>
 <a href="https://www.facebook.com/rahul.mahesh.948/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white"></a>
 </div>
+
+<div align="center">
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28"> my label</h2></summary>
+<p align="center">
+![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)
+</div>
