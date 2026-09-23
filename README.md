@@ -41,4 +41,6 @@
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28"> my label</h2></summary>
 <p align="center">
 </div>
+<div align="center">
 <a href=""><img src="https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white"></a>
+</div>
